@@ -1,3 +1,5 @@
+/*  Preenchimento simples de uma estrutura  */
+
 #include <stdio.h>
 #include <conio.h>
 #include <locale.h>
